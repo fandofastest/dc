@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76895121627",
+    "firebase_url": "https://nifty-cabinet-278206.firebaseio.com",
+    "project_id": "nifty-cabinet-278206",
+    "storage_bucket": "nifty-cabinet-278206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76895121627:android:ae3e26041eb3d3173c1cfe",
+        "android_client_info": {
+          "package_name": "com.newdramacool.koreanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76895121627-pqlk9la0jjs0e452nftekubg3kas375t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs_Bvdnb9RcRSt1pZ5HZrV_xMN3vXy3aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76895121627-pqlk9la0jjs0e452nftekubg3kas375t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
